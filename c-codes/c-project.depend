@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1651026148 source:d:\studing\embedded\amit\c programming & data structure\c-project\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	<stdint.h>
+	<inttypes.h>
+	"myfunctions.h"
+
+1651026148 d:\studing\embedded\amit\c programming & data structure\c-project\myfunctions.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1651026181 source:d:\studing\embedded\amit\c programming & data structure\c-project\myfunctions.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+
+1651029198 source:d:\studing\embedded\amit\1- c programming & data structure\amit course\my codes\c-project\main.c
+	"myfunctions.h"
+
+1651029198 d:\studing\embedded\amit\1- c programming & data structure\amit course\my codes\c-project\myfunctions.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	<stdint.h>
+	<inttypes.h>
+
+1672524713 source:d:\studing\embedded\amit\1- c programming & data structure\amit course\my codes\c-project\myfunctions.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	<stdint.h>
+	<inttypes.h>
+

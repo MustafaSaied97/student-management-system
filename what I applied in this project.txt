@@ -1,0 +1,6 @@
+-Control flow
+-Functions and Modular Programming
+-Pointers 
+-Arrays and String
+-User Defined Data Types
+-Algorithms
